@@ -1,0 +1,22 @@
+@font-face{
+  font-family: iran;
+  src: url(./iran.ttf);
+}
+
+*{
+  direction: rtl;
+  font-family: iran;
+}
+
+table{
+  margin: 0px auto;
+  background-color: #00154f;
+  color: #fcf6f5;
+  border-radius: 10px;
+}
+
+table tr td,th{
+  text-align: center;
+  padding: 10px 60px;
+}
+
